@@ -5,10 +5,10 @@ on:
       - main
 jobs:
   version:
-    uses: ${{ github.GITHUB_REPOSITORY_OWNER }}/${{ vars.UTILS_REPO }}/.github/workflows/autoversion.yml@main
+    uses: TravellingGeekDad/ci-utils/.github/workflows/autoversion.yml@main
   helmdocs:
     needs: version
-    uses: ${{ github.GITHUB_REPOSITORY_OWNER }}/${{ vars.UTILS_REPO }}/.github/workflows/helmdocs.yml@main
+    uses: TravellingGeekDad/ci-utils/.github/workflows/helmdocs.yml@main
   commit-updates:
     runs-on: ubuntu-latest
     needs: [version, helmdocs]

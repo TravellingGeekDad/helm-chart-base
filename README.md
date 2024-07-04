@@ -4,7 +4,7 @@
 
 Library chart for common functionality in other charts
 
-[![release](https://github.com/TravellingGeekDad/helm-chart-base/actions/workflows/ci.yml/badge.svg)](https://github.com/TravellingGeekDad/helm-chart-base/actions/workflows/ci.yml) ![Version: 0.1.0](https://img.shields.io/badge/Version-0.1.0-informational?style=flat-square) ![Type: library](https://img.shields.io/badge/Type-library-informational?style=flat-square)
+[![release](https://github.com/TravellingGeekDad/helm-chart-base/actions/workflows/ci.yml/badge.svg)](https://github.com/TravellingGeekDad/helm-chart-base/actions/workflows/ci.yml) ![Version: 0.1.1](https://img.shields.io/badge/Version-0.1.1-informational?style=flat-square) ![Type: library](https://img.shields.io/badge/Type-library-informational?style=flat-square)
 
 ## Source Code
 

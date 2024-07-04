@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- insertion marker -->
+## [0.1.1](https://github.com/TravellingGeekDad/helm-chart-base/releases/tag/0.1.1) - 2024-07-04
+
+<small>[Compare with 0.1.0](https://github.com/TravellingGeekDad/helm-chart-base/compare/0.1.0...0.1.1)</small>
+
+### Bug Fixes
+
+- statically set repo owner ([a5c404b](https://github.com/TravellingGeekDad/helm-chart-base/commit/a5c404ba47f68a33ab91bceccd21e235b4246859) by Aaron Seibert).
+
 ## [0.1.0](https://github.com/TravellingGeekDad/helm-chart-base/releases/tag/0.1.0) - 2024-07-04
 
 <small>[Compare with first commit](https://github.com/TravellingGeekDad/helm-chart-base/compare/aeadb711059f5226575a559153efbc987a8151d6...0.1.0)</small>

@@ -10,6 +10,8 @@ jobs:
     needs: version
     uses: TravellingGeekDad/ci-utils/.github/workflows/helmdocs.yml@main
   commit-updates:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     needs: [version, helmdocs]
     steps:

@@ -3,7 +3,7 @@ apiVersion: v2
 type: library
 name: base
 description: Library chart for common functionality in other charts
-version: 0.8.3
+version: 0.1.0
 appVersion: ""
 home: https://charts.seibert.family
 sources:

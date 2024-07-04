@@ -4,7 +4,7 @@
 
 Library chart for common functionality in other charts
 
-[![release](https://github.com/AaronSeibert/helm-chart-base/actions/workflows/ci.yml/badge.svg)](https://github.com/AaronSeibert/helm-chart-base/actions/workflows/ci.yml) ![Version: 0.8.3](https://img.shields.io/badge/Version-0.8.3-informational?style=flat-square) ![Type: library](https://img.shields.io/badge/Type-library-informational?style=flat-square)
+[![release](https://github.com/TravellingGeekDad/helm-chart-base/actions/workflows/ci.yml/badge.svg)](https://github.com/TravellingGeekDad/helm-chart-base/actions/workflows/ci.yml) ![Version: 0.1.0](https://img.shields.io/badge/Version-0.1.0-informational?style=flat-square) ![Type: library](https://img.shields.io/badge/Type-library-informational?style=flat-square)
 
 ## Source Code
 
@@ -19,7 +19,7 @@ Library chart for common functionality in other charts
 To use this chart add the repo as follows:
 
 ```console
-$ helm repo add AaronSeibert https://charts.seibert.family
+$ helm repo add TravellingGeekDad https://charts.seibert.family
 ```
 
 If you had already added this repo earlier, run `helm repo update` to retrieve the latest versions of the packages.
@@ -27,7 +27,7 @@ If you had already added this repo earlier, run `helm repo update` to retrieve t
 To install this chart simply run the following command:
 
 ```console
-$ helm install base AaronSeibert/base
+$ helm install base TravellingGeekDad/base
 ```
 
 To uninstall this chart simply run the following command:

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://json.schemastore.org/chart.json
+apiVersion: v2
+type: library
+name: base
+description: Library chart for common functionality in other charts
+version: 0.8.3
+appVersion: ""
+home: https://charts.seibert.family
+sources:
+  - https://github.com/AaronSeibert/helm-chart-base
+keywords:
+  - library-chart
+maintainers:
+  - name: AaronSeibert
+    email: aaron@awseibert.net
